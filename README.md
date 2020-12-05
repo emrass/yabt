@@ -1,10 +1,16 @@
 # Yet Another Baby Tracker
 
-Yet Another Baby Tracker (YABT) is a modern web application to track the activities of your precious bundle of joy. It is open source and you can easily deploy your own instance. It is built in React using Next.js, uses GraphQL for data fetching,
+Yet Another Baby Tracker (YABT) is a modern web application to track the activities of your precious bundle of joy. It is open source and you can easily deploy your own instance.
 
-YABT it currently
+**[Try it out](https://yabt.app)**
 
-[Try it out](https://yabt.app)
+Key features (will) include:
+
+- Track feedings, diaper changes, pumping, and more
+- Track your baby's growth and milestones
+- Web application that works universally on all devices (iOS, Android, Windows, etc.)
+- Keep multiple devices synchronized in real time
+- Provides an open API to programmatically create events
 
 ## Technology Stack
 
